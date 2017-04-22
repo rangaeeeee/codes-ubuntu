@@ -17,3 +17,7 @@ sudo apt-get install emacs
 sudo apt-get install vim
 sudo apt-get install git
 sudo apt-get install gdb
+sudo apt-get install 0ad
+sudo add-apt-repository ppa:wfg/0ad
+sudo apt-get update
+sudo apt-get install 0ad
