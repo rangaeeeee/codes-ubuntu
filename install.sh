@@ -21,3 +21,15 @@ sudo apt-get install 0ad
 sudo add-apt-repository ppa:wfg/0ad
 sudo apt-get update
 sudo apt-get install 0ad
+
+sudo apt-get install bsdgames
+# run monop to run than monopoly game
+#Commands:
+#Roll: to roll
+#M: mortgage property
+#?: for more commands
+
+# arithmetic for simple arithemtic games
+
+#run ninvaders
+sudo apt-get install ninvaders
