@@ -33,3 +33,9 @@ sudo apt-get install bsdgames
 
 #run ninvaders
 sudo apt-get install ninvaders
+
+# to upgrade the distribution
+sudo apt-get install update-manager
+# change to normal 
+/etc/update-manager/release-upgrades
+sudo do-release-upgrade
